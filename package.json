@@ -1,0 +1,20 @@
+{
+  "name": "trackada",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Si-PiSim/trackada--si-pisim_github-#readme",
+  "bugs": {
+    "url": "https://github.com/Si-PiSim/trackada--si-pisim_github-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Si-PiSim/trackada--si-pisim_github-.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "checktrack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
